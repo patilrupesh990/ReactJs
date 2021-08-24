@@ -1,0 +1,6 @@
+html, body, #root, .App {
+  height: 100%;
+  background-color: #FAFAFA;
+  overflow-y: auto;
+  font-family:  "Muli", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+}
